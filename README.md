@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/2379836379">
+    <img src="https://img.shields.io/badge/GitHub-2379836379-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -24,25 +24,22 @@
 **Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+
 </p>
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-181717?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-181717?style=flat-square&logo=go&logoColor=white" alt="Go" />
 </p>
 
 **AI / ML**
@@ -73,13 +70,13 @@
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=111827&icon_color=2563EB&text_color=374151&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2379836379&show_icons=true&hide_border=true&title_color=111827&icon_color=2563EB&text_color=374151&bg_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2379836379&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" alt="Top languages" />
 </p>
 
 ## Contact
 
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [2379836379](https://github.com/2379836379)
 - Email: your-email@example.com
 
 ---
