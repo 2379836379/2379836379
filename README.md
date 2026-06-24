@@ -17,7 +17,7 @@
 
 ## About
 
-
+- 
 
 ## Tech Stack
 
@@ -73,9 +73,3 @@
 
 - GitHub: [2379836379](https://github.com/2379836379)
 - Email: your-email@example.com
-
----
-
-<p align="center">
-  <sub>Build with clarity. Ship with purpose.</sub>
-</p>
