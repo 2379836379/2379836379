@@ -60,7 +60,10 @@
 
 ## Featured Projects
 
-- 
+| Name | Description |
+| --- | --- |
+| **OJ-client / OJ-server** | A Qt-based OpenJudge client in C++ and a Go backend server, supporting local judging and submission workflows. |
+| **Kira-cpp** | A SysY to RISC-V compiler implemented in C++. |
 
 ## GitHub Stats
 
@@ -73,3 +76,4 @@
 
 - GitHub: [2379836379](https://github.com/2379836379)
 - Email: your-email@example.com
+
