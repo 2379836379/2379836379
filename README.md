@@ -24,20 +24,18 @@
 **Frontend**
 
 <p>
-
+  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 **Backend**
 
 <p>
-
-</p>
-
-**Languages**
-
-<p>
   <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-181717?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-181717?style=flat-square&logo=go&logoColor=white" alt="Go" />
 </p>
