@@ -25,7 +25,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
@@ -58,12 +58,9 @@
 
 - 
 
-
 ## Featured Projects
 
-- **Project One** - 
-- **Project Two** - 
-- **Project Three** - 
+- 
 
 ## GitHub Stats
 
