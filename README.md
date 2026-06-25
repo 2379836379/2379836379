@@ -62,7 +62,7 @@
 
 | Name | Description |
 | --- | --- |
-| **OJ-client / OJ-server** | A Qt-based OpenJudge client in C++ and a Go backend server, supporting local judging and submission workflows. |
+| **OJ-client** | A Qt-based OpenJudge client in C++, supporting local judging and submission workflows. |
 | **Kira-cpp** | A SysY to RISC-V compiler implemented in C++. |
 
 ## GitHub Stats
